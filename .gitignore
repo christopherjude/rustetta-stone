@@ -1,0 +1,24 @@
+# Build artifacts
+/target
+**/*.rs.bk
+
+# Dependency directory
+/.cargo/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Binary files
+*.exe
+*.out
+*.bin
